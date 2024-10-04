@@ -7,7 +7,7 @@ Notes:
 Access the dataset via this GitHub link: https://github.com/SartajBhuvaji/Brain-Tumor-Classification-DataSet
 
 2.Running the CNN Model:
-Run the CNN model using the not.ipynb file.
+Run the CNN model using the Brain_Tumor_detection.ipynb file.
 Open Brain_Tumor_detection.ipynb in Jupyter Notebook and execute the cells.
 
 3.Running the Application
