@@ -10,6 +10,6 @@ Access the dataset via this GitHub link: https://github.com/SartajBhuvaji/Brain-
 
 3. The documentation report is in the summary pdf.
 
-4. The video link :  
+4. The yt video link : https://youtu.be/O4jTzPoKkHA  
 
 
